@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="lbl_infos">Put a value between 1 and 100</string>
+    <string name="creation">I am created</string>
+    <string name="demarrage">I am started</string>
+    <string name="redemarrage">I am restarted</string>
+    <string name="reveil">I am awake</string>
+    <string name="pause">I am in pause</string>
+    <string name="arret">I am stopped</string>
+    <string name="destruction">I am destructed</string>
+    <string name="libBouton">Test</string>
+    <string name="outofbound">Out of Bounds</string>
+    <string name="notfound">Not Found !!</string>
+    <string name="found">WIN !!!</string>
+    <string name="gameover">You loose ! The number was %d !</string>
+    <string name="tries">You have %d tries left.</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="lbl_infos">Saisissez une valeur entre 1 et 100</string>
+    <string name="creation">Je suis créée</string>
+    <string name="demarrage">Je suis démarée</string>
+    <string name="redemarrage">Je suis redémarée</string>
+    <string name="reveil">Je suis réveillée</string>
+    <string name="pause">Je suis en pause</string>
+    <string name="arret">Je suis arrêtée</string>
+    <string name="destruction">Je suis détruite</string>
+    <string name="libBouton">Test</string>
+    <string name="outofbound">Hors limites</string>
+    <string name="notfound">Mauvaise valeur !</string>
+    <string name="found">GAGNE !!!!</string>
+    <string name="gameover">Perdu !!! Le nombre était %d !</string>
+    <string name="tries">Il vous reste %d tentatives </string>
+</resources>
